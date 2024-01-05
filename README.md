@@ -25,7 +25,7 @@ This Python application provides a simple Graphical User Interface (GUI) for spe
 
 ## Usage
 
-1. Run the Python script (`speech_translation.py`).
+1. Run the Python script (`code.py`).
 2. The GUI window will appear, allowing you to:
     - Select input and output languages.
     - Click on the 'Translate' button to start the translation process.
@@ -35,7 +35,7 @@ This Python application provides a simple Graphical User Interface (GUI) for spe
 
 ## Code Structure
 
-- `speech_translation.py`: Contains the main Python script with the GUI and translation functionalities.
+- `code.py`: Contains the main Python script with the GUI and translation functionalities.
 - `README.md`: This file, providing information about the application.
 
 ## Notes
